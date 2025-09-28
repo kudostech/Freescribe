@@ -16,6 +16,8 @@ FreeScribe is a simple and powerful tool that lets you:
 🎉 100% Free now, free forever.
 
 ---
+## Demo Preview
+![View here:](https://i.imgur.com/NqBRXxm.png)
 
 
 ## 🚀 Features
