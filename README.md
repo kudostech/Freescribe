@@ -14,6 +14,9 @@ FreeScribe is a simple and powerful tool that lets you:
 - Translate into multiple languages.
 
 🎉 100% Free now, free forever.
+
+---
+
 🔗 **Live Demo:** [https://kudostech-freescribe.vercel.app](https://kudostech-freescribe.vercel.app/
 )
 
