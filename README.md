@@ -14,10 +14,10 @@ FreeScribe is a simple and powerful tool that lets you:
 - Translate into multiple languages.
 
 🎉 100% Free now, free forever.
+🔗 **Live Demo:** [https://admin-dashboard-kudostech.vercel.app](https://kudostech-freescribe.vercel.app/
+)
 
 ---
-## Demo Preview
-![View here:](https://i.imgur.com/NqBRXxm.png)
 
 
 ## 🚀 Features
@@ -33,6 +33,11 @@ FreeScribe is a simple and powerful tool that lets you:
 - 🔒 Privacy-first — your recordings are never shared.
 
 - 🆓 Forever free to use.
+
+---
+
+## Demo Preview
+![View here:](https://i.imgur.com/NqBRXxm.png)
 
 ---
 
